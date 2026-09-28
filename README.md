@@ -1,18 +1,31 @@
 # Belli Soluções Elétricas
 
-Landing page responsiva desenvolvida para a Belli Soluções Elétricas, com foco em apresentar os principais serviços da empresa, facilitar o contato com clientes e fortalecer a presença digital da marca.
+Landing page responsiva desenvolvida para a **Belli Soluções Elétricas**, com foco em apresentação de serviços, experiência mobile e contato direto com clientes através do WhatsApp.
 
 ## Sobre o projeto
 
-A proposta da landing page é permitir que o visitante entenda rapidamente:
+A proposta desta landing page é apresentar a Belli de forma clara, moderna e profissional para pessoas que chegam até a empresa pela internet.
 
-- quais serviços a Belli oferece;
-- em qual região a empresa atende;
-- quais são os diferenciais do trabalho;
+A página foi pensada para ajudar o visitante a entender rapidamente:
+
+- quais serviços a empresa oferece;
+- qual região é atendida;
+- quais são os diferenciais da Belli;
+- como funciona o atendimento;
 - avaliações de clientes;
-- como entrar em contato pelo WhatsApp.
+- como solicitar um orçamento.
 
-O projeto foi desenvolvido com prioridade para dispositivos móveis, mantendo adaptação para tablets e computadores.
+O projeto foi desenvolvido com atenção especial à navegação pelo celular.
+
+## Preview
+
+> Projeto em desenvolvimento.
+
+![Preview da Landing Page Belli](assets/preview-belli.png)
+
+## Demonstração
+
+🔗 [Acesse a landing page online](https://willowy-malasada-cd60a2.netlify.app/)
 
 ## Tecnologias utilizadas
 
@@ -21,27 +34,30 @@ O projeto foi desenvolvido com prioridade para dispositivos móveis, mantendo ad
 - JavaScript
 - Design responsivo
 - Mobile First
-- Animações com JavaScript
+- Intersection Observer
 - Integração com WhatsApp
+- Animações durante o scroll
 
 ## Funcionalidades
 
-- Layout responsivo
-- Menu mobile
+- Layout responsivo para celular, tablet e desktop
+- Menu de navegação mobile
+- Apresentação dos principais serviços
 - Botões de contato via WhatsApp
-- Seção de serviços
 - Seção sobre a empresa
-- Etapas de atendimento
+- Etapas do atendimento
 - Avaliações de clientes
 - FAQ interativo
-- Animações durante o scroll
+- Animações durante a navegação
 - Botão flutuante de WhatsApp
+- Links para redes sociais
 
 ## Estrutura do projeto
 
 ```text
 belli-solucoes-eletricas/
+├── assets/
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
+└── README.md
